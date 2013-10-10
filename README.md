@@ -1,7 +1,7 @@
 Calculator
 ==========
 
-Expression Calculator using following design patterns 
+Numeric Expression Calculator using following design patterns 
 <ul>
 <li>Wrapper Facade
 <li>Iterator
